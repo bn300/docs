@@ -35,4 +35,4 @@ jobs:
           github_token: ${{ secrets.PAT_TOKEN }}
           publish_dir: .vitepress/dist
           publish_branch: gh-pages
-          dotfiles: true
+          #dotfiles: true
