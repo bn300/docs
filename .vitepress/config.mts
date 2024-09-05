@@ -25,7 +25,7 @@ export default defineConfig({
       pattern: 'https://github.com/bn300/docs/edit/main/:path'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/bn300/docs' }
     ]
   },
   srcExclude: ['**/README.md']
